@@ -1,5 +1,5 @@
-const { links } = require("./funciones/links");
-const { whitelist } = require("./funciones/whitelist");
+const links = require("./funciones/links.js");
+const whitelist  = require("./funciones/whitelist.js");
 
 
 module.exports = {
