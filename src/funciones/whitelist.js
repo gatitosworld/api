@@ -1,8 +1,7 @@
-function whitelist(whl, texto){
-
-        if(texto.indexOf(whl)) return true; 
-        else return false; 
-
+function whitelist(string, array){
+        for(let i = 0; i < array.length; i++) {
+                if(string.indexOf(array[i]) > -1) return true;
+        } return false; 
 }
 
 module.exports = whitelist;
