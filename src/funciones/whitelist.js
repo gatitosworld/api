@@ -5,6 +5,7 @@ function whitelist(string, array){
 }
 
 module.exports = whitelist;
+
 /**
  * @description Comprueba si el texto introducido se encuentra en la whitelist.
  * @param {String} texto El texto a comprobar. 
