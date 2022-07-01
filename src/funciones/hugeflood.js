@@ -4,3 +4,8 @@ function hugeflood(string) {
 }
 
 module.exports = hugeflood;
+
+/**
+ * @description Detecta flood en un único mensaje que puede derivar en "walltext"
+ * @param {string} string El texto a evaluar.
+ */
