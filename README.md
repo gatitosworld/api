@@ -1,3 +1,7 @@
 # GatitosWorld API
 
-Este módulo aún está en construcción.
+<h3>Funciones</h3>
+
+- Antiwalltext
+- Antilinks
+
