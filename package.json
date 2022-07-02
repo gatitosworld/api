@@ -1,6 +1,6 @@
 {
     "name": "gatitosworld-api",
-    "version": "111.2.0", 
+    "version": "1.0.10",
     "description": "API empleada en MiaUtilidades y bots de la comunidad GatitosWorld.",
     "main": "./src/index.js",
     "keywords": [],
@@ -13,6 +13,4 @@
     "engines": {
         "node": "16.x"
     }
-
- 
 }
