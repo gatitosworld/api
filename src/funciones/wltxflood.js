@@ -1,5 +1,5 @@
 function wltxflood(string) {
-    let regex = /(.*?)( ?\1)+/g;
+    let regex = /^(.*?)( ?\1)+$/g;
     if(string.match(regex)) return true;
     else return false; 
 }
